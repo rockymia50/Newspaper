@@ -1,40 +1,7 @@
 body{
-     background-image: url("/Users/rogermcintosh/Quiz/assets/Images/Exam background.jpg");
+     background-image: url("../Images/Paperboy.png");
      height:100%;
      background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.hero-body{
-    width: 50%;
-    margin-left: 25%;
-    font-size: 20px;
-}
-
-#quiz{
-    align-items: center;
-    font-weight: bolder;
-    
-
-}
-
-#log1:hover{
-	background-color: #3a8;
-
-}
-
-#log2:hover{
-    background-color: chocolate;
-
-}
-
-#log3:hover{
-	background-color: rgb(235, 74, 216);
-
-}
-
-#log4:hover{
-	background-color: rgb(247, 78, 78);
-
 }
